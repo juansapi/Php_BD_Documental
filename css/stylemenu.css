@@ -1,0 +1,53 @@
+ body  {
+	 background: #1b1e24;
+	 font-family: Arial, sans-serif;
+	font-size: 14px;
+	color: green;
+	
+	 
+	 
+ }
+ 
+ 
+ 
+ .Registroty  input[type="submit"]  {    
+	background-color: #2c90c6;
+	border: 1px solid #2c90c6;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+	color: #fff;
+	font-weight: bold;
+	line-height: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 150px;
+} 
+
+ .Registroty  input[type="button"]  {    
+	background-color: #2c90c6;
+	border: 1px solid #2c90c6;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+	color: #fff;
+	font-weight: bold;
+	line-height: 180px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 150px;
+} 
+
+
+
+
+
+.Registroty input[type="submit"] :hover {
+	background-color: #2c70c6;
+  box-shadow: 2px 2px 20px  #2c90c6, #fff 0 -1px 2px;
+}
+
